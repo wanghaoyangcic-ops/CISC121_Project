@@ -10,6 +10,9 @@ Bubble Sort Demonstration
 
 ## Problem Breakdown & Computational Thinking 
 
+Why did I choose Bubble Sort:
+Although bubble sort is a relatively complex sorting algorithm—meaning it has high space complexity and longer computational processing time—I believe it is easy for beginners to understand and meets my teaching objectives.
+
 Scan the array, then compare adjacent elements. If their order is incorrect, swap them. Repeat until no more swaps occur.
 
 2. Pattern Recognition:
